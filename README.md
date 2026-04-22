@@ -120,6 +120,6 @@ This solution can help companies:
 ## 👨‍💻 Author
 
 **Jigar Patel**
-Data Analyst | Python | SQL | Machine Learning
+Data Analyst | Python | SQL | Machine Learning | Power BI | Advance Excel 
 
 ## ⭐ If you like this project, consider starring the repo!
